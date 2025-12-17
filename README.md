@@ -1,10 +1,10 @@
 # Analisis Profil Pelanggan Kartu Kredit (Clustering & Klasifikasi)
 
 ## Disusun Oleh: 
-### Nama: Fariz Husain Albar    
-### Instansi: UIN Sunan Kalijaga Yogyakarta
+#### Nama: Fariz Husain Albar    
+#### Instansi: UIN Sunan Kalijaga Yogyakarta
 
-### Submission Akhir - Dicoding Academy 
+#### Submission Akhir - Dicoding Academy 
 
 ---
 
