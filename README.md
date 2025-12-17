@@ -46,7 +46,7 @@ Pada tahap ini, kita mengubah data tanpa label menjadi data berlabel.
     * Reduksi Dimensi: **PCA** (Principal Component Analysis) untuk visualisasi cluster.
 
 ### Tahap 2: Klasifikasi (Prediksi)
-Setelah setiap pelanggan memiliki label "Cluster", kita melatih model untuk mengenali pola tersebut.
+Setelah setiap pelanggan memiliki label "Cluster", kita akan melatih model untuk mengenali pola tersebut.
 * **Input:** `hasil_clustering.csv`
 * **Target:** Kolom `Cluster`.
 * **Algoritma:**
