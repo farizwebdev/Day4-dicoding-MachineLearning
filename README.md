@@ -9,7 +9,7 @@
 ---
 
 ## Deskripsi Proyek
-Proyek ini bertujuan untuk melakukan segmentasi pelanggan kartu kredit berdasarkan perilaku transaksi mereka (*Clustering*) dan membangun model prediksi untuk mengklasifikasikan pelanggan baru ke dalam segmen yang telah terbentuk (*Klasifikasi*).
+Proyekk ini bertujuan untuk melakukan segmentasi pelanggan kartu kredit berdasarkan perilaku transaksi mereka (*Clustering*) dan membangun model prediksi untuk mengklasifikasikan pelanggan baru ke dalam segmen yang telah terbentuk (*Klasifikasi*).
 
 Alur pengerjaan dibagi menjadi dua tahap utama:
 1.  **Unsupervised Learning (Clustering):** Mengelompokkan data pelanggan mentah yang tidak memiliki label menjadi beberapa cluster karakteristik.
